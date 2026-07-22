@@ -20,33 +20,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+<ul>
+  <li>
+    <p>We will walk through the different stages a ticket goes through once it is created until it is resolved and closed.</p>
+    <ul>
+      <li><strong>Intake:</strong> The initial step where a ticket is created by the user or an agent.</li>
+      <li><strong>Assignment and Communication:</strong> The ticket is assigned to a department or agent, and communication with the user begins.</li>
+      <li><strong>Working the Issue:</strong> The assigned agent works on resolving the issue or provides updates.</li>
+      <li><strong>Resolution:</strong> The problem is resolved, and the ticket is closed after verifying the solution with the user.</li>
+    </ul>
+  </li>
 
-<h2>Lifecycle Stages</h2>
+  <li><strong>Prioritizing Tickets Based on Severity and SLAs (Service Level Agreements)</strong>
+  </li>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  <li><strong>Triaging Tickets: Identifying or Escalating Issues</strong>
+    <p>In this step, we’ll show how tickets are evaluated to either solve the problem directly or escalate it to a higher level of support if needed. Triaging is key to managing workflow efficiently and avoiding delays.</p>
+  </li>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  <li><strong>Solving Problems and Closing Tickets</strong>
+    <p>Finally, we’ll demonstrate how the problem is addressed, the solution is provided to the user, and the ticket is marked as closed once the issue is fully resolved. Following SLAs ensures that the time to resolution is tracked and met.</p>
+  </li>
+</ul>
