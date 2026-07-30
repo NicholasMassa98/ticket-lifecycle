@@ -30,8 +30,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
       <li><strong>Resolution:</strong> The problem is resolved, and the ticket is closed after verifying the solution with the user.</li>
     </ul>
   </li>
-
-  <li><strong>Prioritizing Tickets Based on Severity and SLAs (Service Level Agreements)</strong>
+  
+   <li><strong>Prioritizing Tickets Based on Severity and SLAs (Service Level Agreements)</strong>
+    <p>SLAs are critical to ensuring that tickets are resolved within an agreed-upon timeframe, depending on the severity of the issue. We will demonstrate how different severity levels align with specific SLAs to prioritize and resolve tickets effectively:</p>
+    <ul>
+      <li><strong>Sev-A (1 hour, 24/7):</strong> This is the highest priority for critical issues, such as when the entire mobile or online banking system is down. The SLA requires a resolution within 1 hour, and the ticket is immediately escalated to the SysAdmins team for 24/7 handling.</li>
+      <li><strong>Sev-B (4 hours, 24/7):</strong> These are important but less urgent issues, like the accounting department needing an Adobe upgrade. The SLA ensures a 4-hour response and resolution time, still available around the clock.</li>
+      <li><strong>Sev-B/C (2 hours, business hours):</strong> This represents lower-priority issues, such as the CFO's laptop running slowly. The SLA guarantees a 2-hour resolution, but only within standard business hours.</li>
+    </ul>
+    <p>By adhering to these SLAs, osTicket ensures that critical issues are dealt with immediately while balancing lower-priority tasks efficiently.</p>
   </li>
 
   <li><strong>Triaging Tickets: Identifying or Escalating Issues</strong>
