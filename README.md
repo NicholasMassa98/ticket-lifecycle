@@ -36,7 +36,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     <ul>
       <li><strong>Sev-A (1 hour, 24/7):</strong> This is the highest priority for critical issues, such as when the entire mobile or online banking system is down. The SLA requires a resolution within 1 hour, and the ticket is immediately escalated to the SysAdmins team for 24/7 handling.</li>
       <li><strong>Sev-B (4 hours, 24/7):</strong> These are important but less urgent issues, like the accounting department needing an Adobe upgrade. The SLA ensures a 4-hour response and resolution time, still available around the clock.</li>
-      <li><strong>Sev-C (8 hour, business hours):</strong> This represents lower-priority issues, such as the CFO's laptop running slowly. The SLA guarantees a 8-hour resolution, but only within standard business hours.</li>
+      <li><strong>Sev-C (8 hours, business hours):</strong> This represents lower-priority issues, such as the CFO's laptop running slowly. The SLA guarantees a 8-hour resolution, but only within standard business hours.</li>
     </ul>
     <p>By adhering to these SLAs, osTicket ensures that critical issues are dealt with immediately while balancing lower-priority tasks efficiently.</p>
   </li>
